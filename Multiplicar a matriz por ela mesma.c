@@ -4,9 +4,11 @@ int
 main ()
 {
   int i, j, x, y = 0, k, z = 0, f = 0, l = 0;
+  printf("Declare o tamanho da matriz quadrada: ");
   scanf ("%i", &x);
   double matriz[x][x], v[x], c[x], multi[x], soma = 0;
   z = x * x;
+  printf("Declare a matriz: ");
   for (i = 0; i < x; i++)
     {
       for (j = 0; j < x; j++)
