@@ -1,3 +1,10 @@
+//Um fazendeiro retira leite de suas vacas todos os dias e quer fazer algumas estatísticas da produção de uma semana.
+//O programa informa: 
+//O dia da sema na com mais e o dia com menos vacas ordenhadas.
+//A média de leite retirada por dia.
+//A média de leite por vaca.
+//O dia da semana com a menor quantidade de leite retirado e quantas vacas foram ordenhadas neste dia.
+//A quantidade de vacas ordenhadas e de leite tirado na sexta feira.
 #include <stdlib.h>
 #include <stdio.h>
 void dia_mais(int *v){
