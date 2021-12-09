@@ -1,3 +1,18 @@
+//Faça um programa de cadastro de produtos e estoques, este programa deverá:
+
+//a)	Cadastrar produtos;
+
+//b)	Mostrar as descrições de todos produtos já cadastrados;
+
+//c)	Mostrar a quantidade em estoque de um determinado produto. A consulta deverá ter como entrada o código do produto.
+
+//Cada item (a, b, c) deverá ser implementado em sua própria função
+
+//Utilizar uma estrutura para representar cada produto, a qual deverá conter: i) um código de produto, ii) a descrição do produto; iii) quantidade em estoque do produto.
+
+//O arquivo será do tipo binário e seu local de armazenamento será: "C:\\UTF\\produtos"
+
+
 #include <stdio.h>
 
 #include <stdlib.h>
